@@ -1,0 +1,28 @@
+{
+  "name": "cfw-express-static",
+  "version": "1.0.0",
+  "description": "Add static site support to cfw-express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjun-g/cfw-express-static.git"
+  },
+  "keywords": [
+    "cloudflare",
+    "express",
+    "router",
+    "static"
+  ],
+  "author": "Arjun G",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arjun-g/cfw-express-static/issues"
+  },
+  "homepage": "https://github.com/arjun-g/cfw-express-static#readme",
+  "dependencies": {
+    "@cloudflare/kv-asset-handler": "^0.1.1"
+  }
+}
